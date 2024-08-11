@@ -1,0 +1,32 @@
+.main-header {
+  font-family: serif;
+  font-size: 56px;
+  color: #365f91;
+}
+
+p {
+  font-size: 20px
+}
+
+.lead strong {
+  text-decoration: underline;
+}
+
+li {
+  color: #365f91
+}
+
+ul > li {
+  list-style-type: square
+}
+
+li li {
+  list-style-type: circle
+}
+
+blockquote {
+  background-image: url(https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg);
+  color: #494429;
+  font-style: italic;
+  font-family: serif
+}
